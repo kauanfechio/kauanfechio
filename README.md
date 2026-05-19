@@ -1,5 +1,30 @@
 ## Olá 👋 sou o Kauan!
 
+
+---
+## 🌐 Onde me encontrar
+
+
+<p align="left">
+  <a href="https://github.com/kauanfechio">
+    <img src="https://img.shields.io/badge/GitHub-kauanfechio-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauanfechio&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanfechio&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+
+
 <!--
 **kauanfechio/kauanfechio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
