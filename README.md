@@ -1,12 +1,13 @@
+<!--
 # Olá 👋 sou o Kauan Fechio!
 
 ---
 
 ## 🚀 Sobre Mim
 *Escreva aqui uma frase curta sobre você. Exemplo:*
-- 🔭 Atualmente estou estudando / trabalhando com desenvolvimento [sua tecnologia].
-- 🌱 Focando em aprimorar meus conhecimentos em JavaScript, React, Python (coloque as suas tecnologias).
-- ⚡ Curiosidade: [Adicione algo divertido sobre você ou seu principal objetivo na programação].
+- 🔭 Atualmente estou estudando o 4o Período em Engeharia de Software .
+- 🌱 Focando em aprimorar meus conhecimentos em JavaScript, HTML, CSS e Java.
+  
 
 ---
 
@@ -44,8 +45,9 @@
   </a> 
   -->
 </p>
+--> 
 
-<!--
+
 ## Olá 👋 sou o Kauan!
 
 
@@ -58,7 +60,7 @@
     <img src="https://img.shields.io/badge/GitHub-kauanfechio-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
--->
+
 ---
 
 
